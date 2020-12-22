@@ -1,0 +1,457 @@
+*{
+    font-family: 'Chewy', cursive;
+    background-color: #e9dbfc;
+}
+
+
+
+.prenav{
+  height: 2vw;
+  width: 100%;
+  background-color:#377967;
+}
+
+ .nav{
+   height:6.3vw; ;
+   width:100% ;
+   display: flex;
+   background-color: #52307c;
+
+
+
+
+
+}
+
+.logo{
+height:1.1vw ;
+width:20% ;
+color: #f8f8fE ;
+float: left;
+text-decoration: none;
+font-size: 1.630vw;
+margin-left: 1.111vw;
+background-color: #52307c;
+
+
+
+
+
+              }
+              .logo>h2{
+              background-color: #52307c;
+              font-family: 'Chewy', cursive;
+
+              }
+
+
+              .navbar{
+                height:2.963vw;
+                width:70% ;
+                text-align: center;
+                font-size: 2.593vw;
+                margin-top: 1.778vw;
+                flex-direction: row;
+                margin-right: 4.444px;
+                background-color: #52307c;
+                font-family: 'Chewy', cursive;
+
+
+
+
+               }
+
+
+
+                                 .selectionnav{
+                                  color:  #f8f8fE;
+                                  font-weight: bold;
+                                  text-decoration: none;
+                                  padding-left: 1vw;
+                                  padding-right:1vw;
+                                  transition: 0.5s;
+                                  background-color: #52307c;
+                                                                     }
+
+                                  .selectionnav:hover{
+                                     font-size: 130%;
+                                     color:#377967;
+
+                                  }
+
+                                  a{
+                                    background-color: #52307c;
+                                  }
+
+                                  .boton{
+                                     font-weight: bold;
+                                     border-color:#f8f8fE ;
+                                     border-style: solid;
+                                     border-width:medium;
+                                     background-color:#52307C ;
+                                     color: #f8f8fE;
+                                     height: 4.444vw;
+                                     width:  8.889vw;
+                                     text-align: center;
+                                     font-size: 2.5vw;
+                                     border-radius: 5%;
+                                     transition: 0.5s;
+                                     margin-right: 1.111vw;
+                                     margin-top: 1.122vw;
+                                     font-family: 'Chewy', cursive;
+                                    }
+
+                                       .boton:hover{
+                                        background-color:#f8f8fE ;
+                                        color: #377967;
+                                        border-color:  #377967;
+                                        }
+    
+    
+    
+    
+    
+    
+    
+    
+      .herobox{width: 100%;
+               height: 40.148vw;
+               width: 100%;
+    
+    
+        }
+    
+         img{
+         max-width: 100%;
+         max-height: 100%;
+         display: block;
+         margin-left: auto;
+         margin-right: auto;
+         margin-top: 2.593vw;
+         width: 39.444vw;
+         height: 40.148vw;
+         }
+    
+    
+    
+    
+    
+    
+         .eatout{
+           margin-top: 3%;
+           padding-top: 10vw;
+           height:39.630vw ;
+           width:100% ;
+           background-image:url("https://images.unsplash.com/photo-1534963063257-6b65b54e438b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTJ8fHBpenphfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+           background-repeat: no-repeat;
+           background-size:107vw 38.630vw;
+           align-content: center;
+           }
+    
+                   .tohelpout{
+                     height:20.222vw ;
+                     width:100% ;
+                     text-align: center;
+                     color: #f8f8fE;
+                     -webkit-text-stroke: 0.148vw black;
+                     font-weight: 500;
+                     font-size: 5.185vw;
+                     transition: 0.5s;
+                     margin-bottom: 0.444vw;
+                     background: none;
+                      }
+    
+                        h6{
+                            color: #f8f8fE;
+                            -webkit-text-stroke: 0.148vw black;
+                            background: none;
+
+                        
+                      }
+    
+                      h4{
+                        background: none;
+                      }
+    
+    
+    
+                      .intro{
+                        width:100%;
+                        height: 330px;
+                        background-color: green;
+                    }
+                    
+                    
+                    
+                    .footer{
+                        height:17.222vw ;
+                        width:100% ;
+                        color: #f8f8fE;
+                        background: #377967;
+                      }
+                    
+                    
+                    
+                                 .adress{
+                                   height:7.815vw ;
+                                   width:33.33% ;
+                                   float: left;
+                                   text-align: center;
+                                   background: #377967;
+                                   color: #f8f8fE;
+                                   font-family: 'Chewy', cursive;
+                    
+                                 }
+                    
+                                 p{background: #377967;
+                                   font-size: 1.1vw;
+                    
+                                 }
+                    
+                                 .follow{
+                                   height:7.815vw ;
+                                   width:33.33% ;
+                                   float: left;
+                                   text-align: center;
+                                   background: #377967;
+                                   color: #f8f8fE;
+                    
+                                 }
+                    
+                              i{
+                                float: rigth;
+                                background: #377967;
+                                font-size: 1.330vw;
+                              }
+                    
+                    
+                                 .work{
+                                   height:7.815vw ;
+                                   width:33.33% ;
+                                   float:right;
+                                   text-align: center;
+                                   background: #377967;
+                                 }
+                    
+                                 .morestuff{
+                                   text-decoration: none;
+                                   color: #f8f8ff;
+                                   font-weight: normal;
+                                   background: #377967;
+                                   font-size: 1.330vw;
+                                   line-height: 3.1vw;
+                                   font-family: 'Chewy', cursive;
+                    
+                    
+                    
+                                 }
+                    
+                                 .morestuff:hover{
+                                   text-decoration: underline;
+                                 }
+                    
+                                 .subtitle{
+                                   font-size: 1.330vw;
+                                   background-color: #377967;
+                                   font-family: 'Chewy', cursive;
+                                 }
+    
+    
+    
+                  /* Small Cellphone */
+                  @media only screen
+                  and (max-device-width: 360px)
+    
+                  {
+    
+                    .nav{
+                      height:15.69858vw;;
+    
+                    }
+    
+                    .logo{
+                      height:1.222vw ;
+                      width:20% ;
+                      font-size:4vw;
+    
+    
+                    }
+    
+                    .navbar{
+                      height:4vw;
+                      width:70% ;
+                      text-align: center;
+                      font-size: 3.9vw;
+                      margin-top: 5.778vw;
+                      flex-direction: row;
+                      margin-right: 4.444px;
+    
+    
+    
+                     }
+    
+                     .selectionnav:hover{
+                        font-size: 130%;
+                      }
+    
+                      .boton{
+                         font-weight: bold;
+                         border-color:#52307c ;
+                         border-style: solid;
+                         border-width: medium;
+                         background-color:#52307C ;
+                         color: #f8f8fE;
+                         height: 7.444vw;
+                         width:  11.889vw;
+                         text-align: center;
+                         font-size: 4.5vw;
+                         border-radius: 5%;
+                         transition: 0.5s;
+                         margin-right: 1.111vw;
+                         margin-top: 4.178vw;
+                        }
+    
+                           .boton:hover{
+                            background-color:#f8f8fE ;
+                            color: #AC8726;
+                            border-color:  #AC8726;
+                            }
+    
+                    .herobox{
+                      height:89.883vw;
+                      width: 100%;
+                      margin-top: 10.178vw;
+                    }
+    
+    
+                    img{
+                       height: 89.883vw;
+                       width: 90%;
+                     }
+    
+                     .eatout{
+                       height:165vw;
+                       width: 100%;
+                       margin-top: 3%;
+                       padding-top: 10px;
+                       padding-bottom: 3.704vw;
+                       height:32.630vw ;
+                       width:100% ;
+                       background-image:url("https://images.unsplash.com/photo-1534963063257-6b65b54e438b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTJ8fHBpenphfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+                       background-repeat: no-repeat;
+                       background-size:100% 165vw ;
+                       align-content: center;
+    
+                       }
+    
+    
+                     .footer{
+    
+                       height:11.8vw;
+    
+                     }
+    
+                   
+  
+                          
+                  @media only screen
+                  and (max-device-width: 600px){
+    
+                    .nav{
+                      height:7.3vw; ;
+                      width:100% ;
+                      display: flex;
+                      background-color: #52307c
+                    }
+                 
+
+                    
+                     .navbar{
+                      height:4.963vw;
+                      width:70% ;
+                      text-align: center;
+                      font-size: 3vw;
+                      margin-top: 2.198vw;
+                      flex-direction: row;
+                      margin-right: 4.444px;
+                      background-color: #52307c;
+                      font-family: 'Chewy', cursive;
+                    }
+
+                    .logo{
+                      height:3.963vw ;
+                      width:20% ;
+                      color: #f8f8fE ;
+                      float: left;
+                      margin-left: 1.111vw;
+                      background-color: #52307c;
+                    }
+    
+    
+                     }
+    
+                     .selectionnav:hover{
+                        font-size: 130%;
+                      }
+    
+                      .boton{
+                         font-weight: bold;
+                         border-color:#52307c ;
+                         border-style: solid;
+                         border-width: medium;
+                         background-color:#52307C ;
+                         color: #f8f8fE;
+                         height: 7.444vw;
+                         width:  11.889vw;
+                         text-align: center;
+                         font-size: 4.5vw;
+                         border-radius: 5%;
+                         transition: 0.5s;
+                         margin-right: 1.111vw;
+                         margin-top: 4.178vw;
+                        }
+    
+                           .boton:hover{
+                            background-color:#f8f8fE ;
+                            color: #AC8726;
+                            border-color:  #AC8726;
+                            }
+    
+                    .herobox{
+                      height:84.883vw;
+                      width: 100%;
+                      margin-top: 10.178vw;
+                    }
+    
+    
+                    img{
+                       height: 84.883vw;
+                       width: 90%;
+                     }
+    
+                     .eatout{
+                       height:160vw;
+                       width: 100%;
+                       margin-top: 3%;
+                       padding-top: 10px;
+                       padding-bottom: 3.704vw;
+                       height:32.630vw ;
+                       width:100% ;
+                       background-image:url("https://images.unsplash.com/photo-1534963063257-6b65b54e438b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTJ8fHBpenphfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+                       background-repeat: no-repeat;
+                       background-size:100% 75.630vw ;
+                       align-content: center;
+    
+                       }
+    
+    
+                     .footer{
+                       margin-top: 5.9vw;
+                       height:321px;
+                     }
+    
+                     .morestuff{
+                       line-height: none;
+                     }
+    
+                  }

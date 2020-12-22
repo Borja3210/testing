@@ -1,0 +1,293 @@
+*{background-color: #e9dbfc;
+}
+
+  .prenav{
+    height: 2vw;
+    width: 100%;
+    background-color:#377967;
+  }
+
+   .nav{
+     height:6.3vw; ;
+     width:100% ;
+     display: flex;
+     background-color: #52307c;
+
+
+
+     a{
+      background-color: #52307c;
+    }
+
+}
+
+.logo{
+  height:1.1vw ;
+  width:20% ;
+  color: #f8f8fE ;
+  float: left;
+  text-decoration: none;
+  font-size: 1.630vw;
+  margin-left: 1.111vw;
+  background-color: #52307c;
+
+
+
+
+
+                }
+                .logo>h2{
+                background-color: #52307c;
+                font-family: 'Chewy', cursive;
+
+                }
+
+
+                .navbar{
+                  height:2.963vw;
+                  width:70% ;
+                  text-align: center;
+                  font-size: 2.593vw;
+                  margin-top: 1.778vw;
+                  flex-direction: row;
+                  margin-right: 4.444px;
+                  background-color: #52307c;
+                  font-family: 'Chewy', cursive;
+
+
+
+
+                 }
+
+
+
+
+
+
+                                   .selectionnav{
+                                    color:  #f8f8fE;
+                                    font-weight: bold;
+                                    text-decoration: none;
+                                    padding-left: 1vw;
+                                    padding-right:1vw;
+                                    transition: 0.5s;
+                                    background-color: #52307c;
+                                                                       }
+
+                                    .selectionnav:hover{
+                                       font-size: 130%;
+                                       color:#377967;
+
+                                    }
+
+                                    .nav>a{
+                                      background-color: #52307c;
+                                    }
+
+                                    .boton{
+                                       font-weight: bold;
+                                       border-color:#f8f8fE ;
+                                       border-style: solid;
+                                       border-width:medium;
+                                       background-color:#52307C ;
+                                       color: #f8f8fE;
+                                       height: 4.444vw;
+                                       width:  8.889vw;
+                                       text-align: center;
+                                       font-size: 2.5vw;
+                                       border-radius: 5%;
+                                       transition: 0.5s;
+                                       margin-right: 1.111vw;
+                                       margin-top: 1.122vw;
+                                       font-family: 'Chewy', cursive;
+                                      }
+
+                                      .boton:hover{
+                                        background-color:#f8f8fE ;
+                                        color: #377967;
+                                        border-color:  #377967;
+                                        }
+
+                                      .banner{
+                                        width: 100%;
+                                        height: 600px;
+                                        background-image: url("https://images.unsplash.com/photo-1562723856-7e22677cc69c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjM3fHxwaXp6YXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+                                        background-repeat: no-repeat;
+                                        background-size:100% 600px;
+                                    }
+                                    
+                                       .box{
+                                        position: absolute;
+                                        top:30%;
+                                        left:9%;
+                                        width: 80%;
+                                        height: 65%;
+                                        border:10px solid white;
+                                        background-color: transparent;
+                                    }
+
+                                       .box>h1{
+                                         background-color: transparent;
+                                         font-family: 'Chewy', cursive;
+                                         color: #f8f8f8;
+                                         -webkit-text-stroke: 2px black;
+                                          text-align: center;
+                                          margin: 0 auto;
+                                          position: relative;
+                                          top:26%;
+                                          font-size: 44px;
+                                       }
+
+
+
+                                      .footer{
+                                        
+                                        height:17.222vw ;
+                                        width:100% ;
+                                        color: #f8f8fE;
+                                        background: #377967;
+                                      }
+                                    
+                                    
+                                    
+                                                 .adress{
+                                                   height:7.815vw ;
+                                                   width:33.33% ;
+                                                   float: left;
+                                                   text-align: center;
+                                                   background: #377967;
+                                                   color: #f8f8fE;
+                                                   font-family: 'Chewy', cursive;
+                                    
+                                                 }
+                                    
+                                                 p{background: #377967;
+                                                   font-size: 1.1vw;
+                                    
+                                                 }
+                                    
+                                                 .follow{
+                                                   height:7.815vw ;
+                                                   width:33.33% ;
+                                                   float: left;
+                                                   text-align: center;
+                                                   background: #377967;
+                                                   color: #f8f8fE;
+                                    
+                                                 }
+                                    
+                                              i{
+                                                float: rigth;
+                                                background: #377967;
+                                                font-size: 1.330vw;
+                                              }
+                                    
+                                    
+                                                 .work{
+                                                   height:7.815vw ;
+                                                   width:33.33% ;
+                                                   float:right;
+                                                   text-align: center;
+                                                   background: #377967;
+                                                 }
+                                    
+                                                 .morestuff{
+                                                   text-decoration: none;
+                                                   color: #f8f8ff;
+                                                   font-weight: normal;
+                                                   background: #377967;
+                                                   font-size: 1.330vw;
+                                                   line-height: 3.1vw;
+                                                   font-family: 'Chewy', cursive;
+                                    
+                                    
+                                    
+                                                 }
+                                    
+                                                 .morestuff:hover{
+                                                   text-decoration: underline;
+                                                 }
+                                    
+                                                 .subtitle{
+                                                   font-size: 1.330vw;
+                                                   background-color: #377967;
+                                                   font-family: 'Chewy', cursive;
+                                                 }
+                                    
+
+
+
+
+@media only screen 
+and (max-device-width: 600px){
+                     
+                        
+                        .nav{
+                          height:7.3vw; ;
+                          width:100% ;
+                          display: flex;
+                          background-color: #52307c
+                        }
+                     
+
+                        
+                         .navbar{
+                          height:4.963vw;
+                          width:70% ;
+                          text-align: center;
+                          font-size: 3vw;
+                          margin-top: 2.198vw;
+                          flex-direction: row;
+                          margin-right: 4.444px;
+                          background-color: #52307c;
+                          font-family: 'Chewy', cursive;
+                        }
+
+                        .logo{
+                          height:3.963vw ;
+                          width:20% ;
+                          color: #f8f8fE ;
+                          float: left;
+                          margin-left: 1.111vw;
+                          background-color: #52307c;
+                        }
+                        .box{
+                          position: absolute;
+                          top:24%;
+                          left:19%;
+                          width: 60%;
+                          height: 45%;
+                          border:10px solid white;
+                          background-color: transparent;
+                      }
+
+                      .box>h1{
+                        background-color: transparent;
+                        font-family:'Roboto', sans-serif; 
+                        color:#377967;
+                        -webkit-text-stroke: 2px #f8f8fe;
+                         text-align: center;
+                         margin: 0 auto;
+                         position: relative;
+                         top:15%;
+                         font-size: 44px;
+                      }
+                      .footer{
+                        position: absolute;  
+                        top:85%;              
+                        height:17.222vw ;
+                        width:100% ;
+                        color: #f8f8fE;
+                        background: #377967;
+                      }
+
+                       .banner{
+                              width: 100%;
+                              height: 820px;
+                              background-image: url("https://images.unsplash.com/photo-1562723856-7e22677cc69c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjM3fHxwaXp6YXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+                              background-repeat: no-repeat;
+                                        background-size:100% 820px;
+                                    }
+
+
+                      }
